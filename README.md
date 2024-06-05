@@ -2,6 +2,8 @@
 
 ## About the Project
 
+<img src="./public/wedding-template.png" width="600" height="auto">
+
 This project showcases a comprehensive wedding service design transformed into a dynamic and interactive website. Utilizing the power of React for a seamless user interface and Sanity CMS for robust content management, this project exemplifies a modern approach to web development.
 
 Features:
